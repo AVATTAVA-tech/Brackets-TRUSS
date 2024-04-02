@@ -1,14 +1,14 @@
 {
-    "name": "Brackets TRUSS",
+    "name": "TRUSS",
     "version": "2.2.1-0",
     "apiVersion": "2.2.1",
     "homepage": "https://avattava.xyz",
     "issues": {
-        "url": "http://github.com/AVATTAVA-tech/Brackets-TRUSS/issues"
+        "url": "http://github.com/AVATTAVA-tech/TRUSS/issues"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/AVATTAVA-tech/Brackets-TRUSS.git",
+        "url": "https://github.com/AVATTAVA-tech/TRUSS.git",
         "branch": "",
         "SHA": ""
     },
@@ -74,7 +74,7 @@
     "licenses": [
         {
             "type": "MIT",
-            "url": "https://github.com/AVATTAVA-tech/Brackets-TRUSS/blob/master/LICENSE"
+            "url": "https://github.com/AVATTAVA-tech/TRUSS/blob/master/LICENSE"
         }
     ]
 }
