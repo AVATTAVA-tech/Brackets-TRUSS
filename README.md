@@ -3,13 +3,18 @@
 | ---
 
 
-Welcome to Brackets! [![Build Status](https://travis-ci.org/adobe/brackets.svg?branch=master)](https://travis-ci.org/adobe/brackets)
+Welcome to Brackets!
 -------------------
 
 Brackets is a modern open-source code editor for HTML, CSS
 and JavaScript that's *built* in HTML, CSS and JavaScript. 
 
 What makes Brackets different from other web code editors?
+
+“It is best to have your own tools with you. If you don't, you are apt to find something that you did not expect and get easily discouraged.”
+
+-- Stephen King, A Memoir of the Craft
+
 
 * **Tools shouldn't get in your way.** Instead of cluttering up your coding
 environment with lots of panels and icons, the Quick Edit UI in Brackets puts 
@@ -111,12 +116,9 @@ Not sure you needed the exclamation point there, but we like your enthusiasm.
 
 #### Contact info
 
-* **E-mail:** [admin@brackets.io](mailto:admin@brackets.io)
-* **Slack:** [Brackets on Slack](https://brackets.slack.com) (You can join by sending a mail to [admin@brackets.io](mailto:admin@brackets.io) with the subject line `slack registration request` specifying the email addresses you would like to register).
-* **Developers mailing list:** http://groups.google.com/group/brackets-dev
-* **Twitter:** [@brackets](https://twitter.com/brackets)
-* **Blog:** http://blog.brackets.io/
-* **IRC:** [#brackets on freenode](http://webchat.freenode.net/?channels=brackets)
+* **E-mail:** [contact@avattava.xyz](mailto:contact@avattava.xyz)
+* **Twitter:** [@AVATTAVA_Tech](https://twitter.com/AVATTAVA_Tech)
+* **Blog:** https://avattava.xyz/technology-blog
 
 ---
 
